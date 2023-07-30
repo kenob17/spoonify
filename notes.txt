@@ -1,0 +1,20 @@
+
+
+Walkthrough: 
+
+    July 28, 2023
+    1) Signup, Login, and Continue as guest.
+    2) If logged in: 
+        - the user can save the recipe, and can view their saved recipes
+       If guest:
+        - they can only view the recipe
+    3) Can search recipes by Name and Ingredients
+
+
+
+
+To Edit: 
+    1) Correct the condition on color of saved recipe
+        Must get all the saved recipes of the user first and iterate if it is saved or not.
+
+    
